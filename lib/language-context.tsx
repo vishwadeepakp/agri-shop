@@ -22,19 +22,19 @@ export const translations: Translations = {
   // About Section
   aboutUs: { en: "About Us", hi: "हमारे बारे में" },
   aboutSubtitle: {
-    en: "Serving farmers with dedication since 2005",
-    hi: "2005 से किसानों की समर्पित सेवा में"
+    en: "Serving farmers with dedication since 2002",
+    hi: "2002 से किसानों की समर्पित सेवा में"
   },
   aboutStory: {
-    en: "For over 20 years, Vindhywasini traders has been the trusted partner for farmers across the region. What started as a small family-owned shop has grown into a reliable source of premium agricultural supplies. Our commitment to quality and genuine products has earned us the trust of thousands of farming families.",
-    hi: "20 से अधिक वर्षों से, Vindhywasini traders क्षेत्र भर के किसानों के लिए एक विश्वसनीय साथी रहा है। जो एक छोटी पारिवारिक दुकान के रूप में शुरू हुआ था, वह अब प्रीमियम कृषि आपूर्ति का एक विश्वसनीय स्रोत बन गया है। गुणवत्ता और असली उत्पादों के प्रति हमारी प्रतिबद्धता ने हमें हजारों किसान परिवारों का विश्वास दिलाया है।"
+    en: "For over 24 years, Vindhywasini traders has been the trusted partner for farmers across the region. What started as a small family-owned shop has grown into a reliable source of premium agricultural supplies. Our commitment to quality and genuine products has earned us the trust of thousands of farming families.",
+    hi: "24 से अधिक वर्षों से, Vindhywasini traders क्षेत्र भर के किसानों के लिए एक विश्वसनीय साथी रहा है। जो एक छोटी पारिवारिक दुकान के रूप में शुरू हुआ था, वह अब प्रीमियम कृषि आपूर्ति का एक विश्वसनीय स्रोत बन गया है। गुणवत्ता और असली उत्पादों के प्रति हमारी प्रतिबद्धता ने हमें हजारों किसान परिवारों का विश्वास दिलाया है।"
   },
   aboutMission: {
     en: "Our mission is simple: to provide farmers with the best seeds, fertilizers, and crop protection products at fair prices. We believe that when farmers succeed, our community thrives.",
     hi: "हमारा मिशन सरल है: किसानों को उचित मूल्य पर सर्वोत्तम बीज, उर्वरक और फसल सुरक्षा उत्पाद प्रदान करना। हमारा मानना है कि जब किसान सफल होते हैं, तो हमारा समुदाय फलता-फूलता है।"
   },
   established: { en: "Established 2005", hi: "स्थापित 2005" },
-  yearsServing: { en: "20+ Years Serving Farmers", hi: "20+ वर्षों से किसानों की सेवा" },
+  yearsServing: { en: "24+ Years Serving Farmers", hi: "24+ वर्षों से किसानों की सेवा" },
   founderSection: { en: "Meet Our Founder", hi: "हमारे संस्थापक से मिलें" },
   founderName: { en: "[Founder Name]", hi: "[संस्थापक का नाम]" },
   founderTitle: { en: "Founder & Managing Director", hi: "संस्थापक और प्रबंध निदेशक" },

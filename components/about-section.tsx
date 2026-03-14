@@ -2,7 +2,7 @@
 
 import { useLanguage } from "@/lib/language-context"
 import { Award, Users, Calendar } from "lucide-react"
-import Image from "next/image"
+import Galry from "./Galry"
 
 export function AboutSection() {
   const { t } = useLanguage()
@@ -48,8 +48,9 @@ export function AboutSection() {
             </div>
           </div>
 
-          <div className="flex flex-col items-center rounded-xl bg-card p-8 shadow-sm">
-            <h3 className="mb-6 text-xl font-semibold text-foreground">
+          {/* <div className="flex flex-col items-center rounded-xl bg-card p-8 shadow-sm"> */}
+            <Galry />
+            {/* <h3 className="mb-6 text-xl font-semibold text-foreground">
               {t("founderSection")}
             </h3>
             
@@ -68,8 +69,8 @@ export function AboutSection() {
             
             <blockquote className="mt-6 text-center text-pretty italic text-muted-foreground">
               {t("founderQuote")}
-            </blockquote>
-          </div>
+            </blockquote> */}
+          {/* </div> */}
         </div>
       </div>
     </section>

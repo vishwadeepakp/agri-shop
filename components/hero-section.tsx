@@ -25,7 +25,7 @@ export function HeroSection() {
             className="gap-2 bg-primary px-8 text-base font-medium text-primary-foreground hover:bg-primary/90"
           >
             <a
-              href="https://wa.me/9838071502?text=Hello%2C%20I%27m%20interested%20in%20your%20products"
+              href="https://wa.me/9838071502?text=नमस्ते%2C%20मैं%20उत्पादों%20के%20बारे%20में%20पूछताछ%20करना%20चाहता%20हूँ"
               target="_blank"
               rel="noopener noreferrer"
             >

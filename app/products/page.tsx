@@ -42,7 +42,7 @@ export default function ProductsPage() {
             </Button>
             <Button asChild variant="outline" size="lg" className="gap-2">
               <a
-                href="https://wa.me/919838071502?text=Hello%2C%20I%20want%20to%20inquire%20about%20products"
+                href="https://wa.me/919838071502?text=नमस्ते%2C%20मैं%20उत्पादों%20के%20बारे%20में%20पूछताछ%20करना%20चाहता%20हूँ"
                 target="_blank"
                 rel="noopener noreferrer"
               >

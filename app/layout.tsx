@@ -13,7 +13,7 @@ const _notoSansDevanagari = Noto_Sans_Devanagari({
 });
 
 export const metadata: Metadata = {
-  title: 'vindhyavasini traders Seeds & Fertilizers | Quality Agricultural Supplies',
+  title: 'Vindhywasini traders Seeds & Fertilizers | Quality Agricultural Supplies',
   description: 'Trusted supplier of high-yield seeds, organic fertilizers, and crop protection products. Serving farmers with quality agricultural inputs since 1995.',
   generator: 'v0.app',
   icons: {

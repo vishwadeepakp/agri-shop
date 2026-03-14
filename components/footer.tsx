@@ -14,11 +14,11 @@ export function Footer() {
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary">
               <Leaf className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="font-semibold text-foreground">vindhyavasini traders</span>
+            <span className="font-semibold text-foreground">Vindhywasini traders</span>
           </div>
 
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} vindhyavasini traders Seeds & Fertilizers. {t("allRights")}
+            © {new Date().getFullYear()} Vindhywasini traders Seeds & Fertilizers. {t("allRights")}
           </p>
         </div>
       </div>

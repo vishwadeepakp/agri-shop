@@ -1,5 +1,6 @@
 "use client"
 
+import { title } from "process"
 import { createContext, useContext, useState, ReactNode } from "react"
 
 export type Language = "en" | "hi"
@@ -14,6 +15,7 @@ type Translations = {
 export const translations: Translations = {
   // Header
   contact: { en: "Contact", hi: "संपर्क" },
+  title: { en: "vindhyavasini traders", hi: "विन्ध्यवासिनी ट्रेडर्स" },
   about: { en: "About", hi: "हमारे बारे में" },
   products: { en: "Products", hi: "उत्पाद" },
 
@@ -101,7 +103,7 @@ export const translations: Translations = {
   address: { en: "Address", hi: "पता" },
   addressValue: {
     en: "Vindhywasini traders opp suhag mahal kon road patakpura Orai Jalaun Uttar Pradesh 285001",
-    hi: "Vindhywasini traders opp suhag mahal kon road patakpura Orai Jalaun Uttar Pradesh 285001"
+    hi: "विन्ध्यवासिनी ट्रेडर्स, सुहाग महल के सामने, कोन रोड, पटकपुरा, उरई, जालौन, उत्तर प्रदेश - 285001"
   },
   openingHours: { en: "Opening Hours", hi: "खुलने का समय" },
   hoursValue: {
@@ -127,7 +129,7 @@ type LanguageContextType = {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined)
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [language, setLanguage] = useState<Language>("en")
+  const [language, setLanguage] = useState<Language>("hi")
 
   const t = (key: string): string => {
     return translations[key]?.[language] || key

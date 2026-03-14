@@ -28,7 +28,7 @@ export function Header() {
           <div className="flex h-9 w-9 items-center justify-center rounded-full bg-primary">
             <Leaf className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-xl font-semibold text-foreground">vindhyavasini traders</span>
+          <span className="text-xl font-semibold text-foreground">  {t("title")}</span>
         </Link>
 
         <div className="flex items-center gap-4">

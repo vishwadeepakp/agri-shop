@@ -70,7 +70,7 @@ export function LocationContact() {
             <div className="relative aspect-[4/3] w-full">
               <button style={{position: "absolute", zIndex: "9999", background: "var(--primary)", margin: "10px", padding: "10px"}}>
                 <a
-                  href="https://www.google.com/maps?q=25.988469077210087,79.44461903048045"
+                  href="https://maps.app.goo.gl/DhJYKJn5GJbKzELw8"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

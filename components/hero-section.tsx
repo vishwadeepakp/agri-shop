@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { MessageCircle } from "lucide-react"
 import { useLanguage } from "@/lib/language-context"
+import { FaWhatsapp } from "react-icons/fa"
 
 export function HeroSection() {
   const { t } = useLanguage()
@@ -28,7 +29,7 @@ export function HeroSection() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <MessageCircle className="h-5 w-5" />
+              <FaWhatsapp className="h-8 w-8" />
               {t("orderWhatsApp")}
             </a>
           </Button>

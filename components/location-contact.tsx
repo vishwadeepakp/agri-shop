@@ -68,7 +68,7 @@ export function LocationContact() {
 
           <div className="overflow-hidden rounded-lg border bg-muted">
             <div className="relative aspect-[4/3] w-full">
-              {/* <button style={{ position: "absolute", zIndex: "9999", background: "var(--primary)", margin: "10px", padding: "10px", color: "var(--primary-foreground)" }}>
+              <button style={{ position: "absolute", zIndex: "9999", background: "var(--primary)", margin: "10px", padding: "10px", color: "var(--primary-foreground)", right: "10px" }}>
                 <a
                   href="https://maps.app.goo.gl/DhJYKJn5GJbKzELw8"
                   target="_blank"
@@ -76,7 +76,7 @@ export function LocationContact() {
                 >
                   Open in Google Maps
                 </a>
-              </button> */}
+              </button>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.3777990921512!2d79.44212897498907!3d25.98843877721021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399d7f1efb8be707%3A0x7804b15aca24cb7f!2sVindhywasini%20Traders!5e0!3m2!1sen!2sin!4v1773500786797!5m2!1sen!2sin"
                 width="100%"

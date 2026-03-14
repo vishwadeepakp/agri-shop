@@ -30,7 +30,7 @@ const contactDetails: ContactDetail[] = [
   {
     icon: Mail,
     labelKey: "email",
-    value: "vishwadeepak.pandey@gmail.com",
+    value: " vindhywasiniorai@gmail.com",
   },
 ]
 

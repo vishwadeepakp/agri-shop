@@ -15,7 +15,7 @@ type Translations = {
 export const translations: Translations = {
   // Header
   contact: { en: "Contact", hi: "संपर्क" },
-  title: { en: "vindhyavasini traders", hi: "विन्ध्यवासिनी ट्रेडर्स" },
+  title: { en: "Vindhywasini traders", hi: "विन्ध्यवासिनी ट्रेडर्स" },
   about: { en: "About", hi: "हमारे बारे में" },
   products: { en: "Products", hi: "उत्पाद" },
 
@@ -102,8 +102,8 @@ export const translations: Translations = {
   },
   address: { en: "Address", hi: "पता" },
   addressValue: {
-    en: "Vindhywasini traders opp suhag mahal kon road patakpura Orai Jalaun Uttar Pradesh 285001",
-    hi: "विन्ध्यवासिनी ट्रेडर्स, सुहाग महल के सामने, कोन रोड, पटकपुरा, उरई, जालौन, उत्तर प्रदेश - 285001"
+    en: "Vindhywasini traders opp suhag mahal Koach road patakpura Orai Jalaun Uttar Pradesh 285001",
+    hi: "विन्ध्यवासिनी ट्रेडर्स, सुहाग महल के सामने, कोच रोड, पटकपुरा, उरई, जालौन, उत्तर प्रदेश - 285001"
   },
   openingHours: { en: "Opening Hours", hi: "खुलने का समय" },
   hoursValue: {

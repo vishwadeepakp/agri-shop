@@ -68,7 +68,7 @@ export function LocationContact() {
 
           <div className="overflow-hidden rounded-lg border bg-muted">
             <div className="relative aspect-[4/3] w-full">
-              <button style={{position: "absolute", zIndex: "9999", background: "var(--primary)", margin: "10px", padding: "10px"}}>
+              <button style={{position: "absolute", zIndex: "9999", background: "var(--primary)", margin: "10px", padding: "10px", color: "var(--primary-foreground)"}}>
                 <a
                   href="https://maps.app.goo.gl/DhJYKJn5GJbKzELw8"
                   target="_blank"

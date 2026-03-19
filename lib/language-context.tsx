@@ -33,7 +33,7 @@ export const translations: Translations = {
     en: "Our mission is simple: to provide farmers with the best seeds, fertilizers, and crop protection products at fair prices. We believe that when farmers succeed, our community thrives.",
     hi: "हमारा मिशन सरल है: किसानों को उचित मूल्य पर सर्वोत्तम बीज, उर्वरक और फसल सुरक्षा उत्पाद प्रदान करना। हमारा मानना है कि जब किसान सफल होते हैं, तो हमारा समुदाय फलता-फूलता है।"
   },
-  established: { en: "Established 2005", hi: "स्थापित 2005" },
+  established: { en: "Established 2002", hi: "स्थापित 2002" },
   yearsServing: { en: "24+ Years Serving Farmers", hi: "24+ वर्षों से किसानों की सेवा" },
   founderSection: { en: "Meet Our Founder", hi: "हमारे संस्थापक से मिलें" },
   founderName: { en: "[Founder Name]", hi: "[संस्थापक का नाम]" },
